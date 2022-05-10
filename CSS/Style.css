@@ -1,0 +1,21 @@
+img, svg {
+    vertical-align: middle;
+    width: 100px;
+}
+.navbar{
+    border-bottom: solid  gray;
+}
+
+h1{
+    font-family: "'inter",sans-serif;
+   font-size: 50px;
+    margin-bottom: 25px;
+    display: inline-block ;
+}
+
+.second-section{
+    background-image: url(https://doob.rainbow.net/images/bg/bg-image-3.jpg);
+    background-size:cover;
+    text-align: center;
+
+}
